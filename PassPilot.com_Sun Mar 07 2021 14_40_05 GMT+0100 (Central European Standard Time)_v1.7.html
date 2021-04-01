@@ -1494,8 +1494,8 @@ function closeModal() {
         if (!offline) {
             window.location.hash = "";
             window.history.pushState("", document.title, "/");
-            toggle("modal")
         }
+        toggle("modal");
     }
 }
 
