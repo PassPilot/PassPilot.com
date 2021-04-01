@@ -23,10 +23,11 @@ New versions will be added as new features are being published.
 Check our FAQ page for more information about the application http://www.passpilot.com/#/faq
 
 ## Features added 
+v1.8 - 01 Apr 2021 added "Passwords check" feature in the "Offline" section. Checks passwords strength, marks weak and reused passwords.
 
-βeta v1.7 - 07 Mar 2021 added "Save only application" feature in the "Save to file" card
+v1.7 (βeta) - 07 Mar 2021 added "Save only application" feature in the "Save to file" card
 
-βeta v1.6 - 05 Mar 2021 Initial publication of the application
+v1.6 (βeta) - 05 Mar 2021 Initial publication of the application
 
 ## Main features of the application
 
