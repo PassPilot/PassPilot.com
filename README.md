@@ -23,6 +23,9 @@ New versions will be added as new features are being published.
 Check our FAQ page for more information about the application http://www.passpilot.com/#/faq
 
 ## Features added 
+v1.9 - 22 Feb 2022 the app can now be used as authenticator in 2-step verification (2FA) as it generates 6-digit time based one time passwords (TOTP)
+Read more in FAQ https://www.passpilot.com/#/faq
+
 v1.8 - 01 Apr 2021 added "Passwords check" feature in the "Offline" section. Checks passwords strength, marks weak and reused passwords.
 
 v1.7 (βeta) - 07 Mar 2021 added "Save only application" feature in the "Save to file" card
@@ -37,6 +40,7 @@ v1.6 (βeta) - 05 Mar 2021 Initial publication of the application
 - **Source code of the application is publicly available, anyone with good knowledge of JavaScript can review the code (nothing is compiled).**
 - **Off the grid. Probably the best feature of this application is that you can save everything to a single file and use the application offline (every offline feature is available including adding new records), no limits, no ads, for free, forever! Keep it on a flash drive, local drive or any cloud storage of your choice.**
 - **If you want - also for free - you can register to save your encrypted vault online and be able to access your data anywhere across all your devices.**
+- **Can be used as authenticator in 2-step verification (2FA) as it generates 6-digit time based one time passwords (TOTP)**
 - **Contains strong password generator**
 - **Two color schemes**
 - **Two language versions**
